@@ -1,0 +1,46 @@
+body{
+	background-color: #cdb4db;
+}
+input{background-color: #bde0fe;
+
+}
+a{
+	font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+	text-decoration: wavy;
+}
+h3{
+	text-align: center;
+}
+form{
+	color:blue;
+}
+h1{
+	background-color: #ffafcc;
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+    color:azure
+}
+
+
+#nav{
+    background-color: rgb(0, 0, 0);
+    height: 60px;
+   
+}
+
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+a{
+    margin-right: 200px;
+}
